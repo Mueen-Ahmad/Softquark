@@ -1,0 +1,6 @@
+{
+  "name": "Softquark Portfolio",
+  "description": "The official showcase and portfolio of Softquark, featuring custom-built software products, responsive web apps, and modern digital utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
